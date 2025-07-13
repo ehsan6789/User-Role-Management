@@ -1,0 +1,886 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lenovo\\Desktop\\Project1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\mapping\\assetmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\mapping\\assetmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\iassetassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\iassetassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\assetassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\assetassignmentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\repositories\\assetassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\repositories\\assetassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\services\\assetassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\services\\assetassignmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\assignassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\assignassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\assetassignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\iassetassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\iassetassignmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\lookupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\lookupscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\leavetypebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\leavetypebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\leavebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\leavebalancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\attendancecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\attendance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\employeeattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\employeeattendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\employeeattendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\employeeattendancesummarydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\iattendancerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\repositories\\attendancerepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\repositories\\attendancerepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\attendancedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\iemployeereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\iemployeereportrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\updateassetassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\updateassetassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\createassetassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\createassetassignmentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\assetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\idepartmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\interfaces\\icustomemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\interfaces\\icustomemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\registermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\updateassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\updateassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\createassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\createassetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\asset.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\repositories\\assetrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\services\\assetservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\bankaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\bankaccountscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\controllers\\employeereportcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\repositories\\bankaccountrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\repositories\\bankaccountrepositry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\models\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|c:\\users\\lenovo\\desktop\\project1\\authdemo1\\dtos\\bankaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53FD1E92-6BA6-4739-BCBF-4EE3CA6AF020}|AUTHDEMO1\\AUTHDEMO1.csproj|solutionrelative:authdemo1\\dtos\\bankaccountdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AssetAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AssetAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AssetAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AssetAssignmentRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AssetAssignmentRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:22:52.467Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAkwEsAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:56:32.324Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetMappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Mapping\\AssetMappingProfile.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Mapping\\AssetMappingProfile.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Mapping\\AssetMappingProfile.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Mapping\\AssetMappingProfile.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAowFUAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:56:51.222Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IAssetAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAssetAssignmentService.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IAssetAssignmentService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAssetAssignmentService.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IAssetAssignmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:47:00.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AssetAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAASwBgAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:21:17.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AssetAssignmentService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetAssignmentService.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Services\\AssetAssignmentService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetAssignmentService.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Services\\AssetAssignmentService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAwwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:30:32.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AssignAssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AssignAssetDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\AssignAssetDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AssignAssetDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\AssignAssetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T22:57:53.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssetAssignment.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\AssetAssignment.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\AssetAssignment.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\AssetAssignment.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\AssetAssignment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:46:40.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAgwJgAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:09:03.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IAssetAssignmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAssetAssignmentRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IAssetAssignmentRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAssetAssignmentRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IAssetAssignmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:22:26.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T23:08:13.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwFMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:13:22.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAowBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:13:38.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:13:39.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\ApplicationUser.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T20:44:12.833Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250712052412_AddApplicationUserIdToEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Migrations\\20250712052412_AddApplicationUserIdToEmployee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T05:24:15.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAywBsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:15:28.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250711060944_FixLeaveNavigation.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Migrations\\20250711060944_FixLeaveNavigation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T06:09:49.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LookupsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\LookupsController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\LookupsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\LookupsController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\LookupsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T04:53:04.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LeaveTypeBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\LeaveTypeBalanceDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\LeaveTypeBalanceDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\LeaveTypeBalanceDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\LeaveTypeBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T23:02:18.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AttendanceController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AttendanceController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AttendanceController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AttendanceController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AttendanceController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAAABgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:04:47.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EmployeeAttendanceSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeAttendanceSummaryDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\EmployeeAttendanceSummaryDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeAttendanceSummaryDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\EmployeeAttendanceSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:06:36.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\LeaveRequest.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\LeaveRequest.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T07:56:33.007Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Attendance.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\Attendance.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\Attendance.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\Attendance.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\Attendance.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:52:05.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LeaveBalanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\LeaveBalanceDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\LeaveBalanceDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\LeaveBalanceDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\LeaveBalanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:42:11.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "AttendanceSubmitDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\AttendanceSubmitDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T09:14:21.609Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EmployeeAttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeAttendanceDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\EmployeeAttendanceDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeAttendanceDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\EmployeeAttendanceDto.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAADwvxgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:07:22.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "EmployeeProfileDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\EmployeeProfileDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T05:44:01.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IAttendanceRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAttendanceRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IAttendanceRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IAttendanceRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IAttendanceRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:58:10.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AttendanceRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAkwAgAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:59:37.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "EmployeeLeaveSummaryDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\EmployeeLeaveSummaryDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:56:57.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AttendanceDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AttendanceDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\AttendanceDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AttendanceDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\AttendanceDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T04:44:51.026Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UpdateAssetAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateAssetAssignmentDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\UpdateAssetAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateAssetAssignmentDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\UpdateAssetAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:30:58.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmployeeReportRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IEmployeeReportRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IEmployeeReportRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IEmployeeReportRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IEmployeeReportRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T23:58:45.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Asset.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\Asset.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\Asset.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\Asset.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\Asset.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:50:51.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "UpdateAssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateAssetDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\UpdateAssetDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateAssetDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\UpdateAssetDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:32:31.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "CreateAssetAssignmentDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateAssetAssignmentDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\CreateAssetAssignmentDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateAssetAssignmentDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\CreateAssetAssignmentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T08:30:49.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "AssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AssetDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\AssetDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\AssetDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\AssetDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:32:33.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "RegisterModel.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\RegisterModel.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\RegisterModel.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\RegisterModel.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\RegisterModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:41:00.178Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "ICustomEmailsender.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\ICustomEmailsender.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\ICustomEmailsender.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\ICustomEmailsender.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\ICustomEmailsender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:42:25.36Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IDepartmentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Interfaces\\IDepartmentRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Interfaces\\IDepartmentRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Interfaces\\IDepartmentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T03:42:28.905Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "AssetsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetsController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AssetsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetsController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AssetsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T00:21:15.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "CreateAssetDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateAssetDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\CreateAssetDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateAssetDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\CreateAssetDto.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBMAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:32:03.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Services\\AssetService.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAgwEcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:46:56.047Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "AssetRepository.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AssetRepository.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AssetRepository.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AssetRepository.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AssetRepository.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:47:18.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20250710020607_Add_Model_Column_To_Assets.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Migrations\\20250710020607_Add_Model_Column_To_Assets.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:06:08.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "BankAccountsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\BankAccountsController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\BankAccountsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\BankAccountsController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\BankAccountsController.cs",
+              "ViewState": "AgIAAG4AAAAAAAAAAAAswAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T02:11:55.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EmployeeReportController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\EmployeeReportController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\EmployeeReportController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\EmployeeReportController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\EmployeeReportController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T01:02:26.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "BankAccountRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\BankAccountRepositry.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\BankAccountRepositry.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\BankAccountRepositry.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\BankAccountRepositry.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvycAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:54:28.848Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\BankAccount.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Models\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Models\\BankAccount.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Models\\BankAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:51:38.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:50:59.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA/wBcAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-08T22:49:15.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "BankAccountDto.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\BankAccountDto.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\DTOs\\BankAccountDto.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\DTOs\\BankAccountDto.cs",
+              "RelativeToolTip": "AUTHDEMO1\\DTOs\\BankAccountDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T00:14:49.15Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
