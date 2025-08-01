@@ -59,7 +59,7 @@ namespace AUTHDEMO1.Controllers
             }
             var bankAccount = _mapper.Map<BankAccount>(createBankAccountDto);
 
-            // If this is the first account or set as primary, update other accounts
+         
             if (createBankAccountDto.IsPrimary)
             {
                 var existingAccounts = await _bankAccountRepository.GetBankAccountsByEmployeeIdAsync(createBankAccountDto.EmployeeId);
@@ -96,10 +96,10 @@ namespace AUTHDEMO1.Controllers
             {
                 return NotFound();
             }
-            // Update bank account
+         
             _mapper.Map(bankAccountDto, bankAccount);
 
-            // If setting as primary, update other accounts
+      
             if (bankAccountDto.IsPrimary)
             {
                 await _bankAccountRepository.SetPrimaryBankAccountAsync(bankAccount.EmployeeId, bankAccount.Id);
@@ -120,7 +120,7 @@ namespace AUTHDEMO1.Controllers
             }
             await _bankAccountRepository.DeleteAsync(id);
 
-            // If the deleted account was primary, set another account as primary if available
+            
             if (bankAccount.IsPrimary)
             {
                 var remainingAccounts = await _bankAccountRepository.GetBankAccountsByEmployeeIdAsync(bankAccount.EmployeeId);

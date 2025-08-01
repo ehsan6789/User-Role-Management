@@ -26,7 +26,6 @@ namespace AUTHDEMO1.Repositories
         }
         public async Task SetPrimaryBankAccountAsync(int employeeId, int bankAccountId)
         {
-            // First, set all bank accounts for this employee to non-primary
             var employeeBankAccounts = await _context.BankAccounts
                 .Where(b => b.EmployeeId == employeeId)
                 .ToListAsync();

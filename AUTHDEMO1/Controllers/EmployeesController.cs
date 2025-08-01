@@ -72,7 +72,7 @@ namespace AUTHDEMO1.Controllers
             employee.CreatedAt = DateTime.UtcNow;
             employee.CreatedBy = userId;
 
-            // Map bank accounts
+
             if (createEmployeeDto.BankAccounts != null && createEmployeeDto.BankAccounts.Any())
             {
                 employee.BankAccounts = createEmployeeDto.BankAccounts.Select(dto => new BankAccount
@@ -108,10 +108,10 @@ namespace AUTHDEMO1.Controllers
             employee.UpdatedAt = DateTime.UtcNow;
             employee.UpdatedBy = userId;
 
-            // Update bank accounts
+      
             if (updateEmployeeDto.BankAccounts != null)
             {
-                employee.BankAccounts.Clear(); // Assumes EF tracks and deletes old ones
+                employee.BankAccounts.Clear(); 
                 foreach (var dto in updateEmployeeDto.BankAccounts)
                 {
                     employee.BankAccounts.Add(new BankAccount

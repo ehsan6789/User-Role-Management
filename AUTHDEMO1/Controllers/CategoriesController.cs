@@ -1,8 +1,6 @@
-﻿using Microsoft.AspNetCore.Mvc;
-
+﻿using AUTHDEMO1.DTOs;
 using AUTHDEMO1.Interfaces;
-using AUTHDEMO1.DTOs;
-using AUTHDEMO1.Services;
+using Microsoft.AspNetCore.Mvc;
 
 namespace AUTHDEMO1.Controllers
 {

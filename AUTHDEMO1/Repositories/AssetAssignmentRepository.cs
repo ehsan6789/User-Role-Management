@@ -1,9 +1,7 @@
 ﻿using AUTHDEMO1.Data;
-using AUTHDEMO1.DTOs;
 using AUTHDEMO1.Interfaces;
 using AUTHDEMO1.Models;
 using Microsoft.EntityFrameworkCore;
-using System;
 
 namespace AUTHDEMO1.Repositories
 {

@@ -57,7 +57,7 @@ namespace AUTHDEMO1.Repositories
         }
         public async Task<EmployeeLeaveSummaryDto> GetLeaveSummaryAsync(int employeeId)
         {
-            int totalAllocated = 20; // Static or can come from DB/config
+            int totalAllocated = 20; 
 
             int usedLeaves = await _context.LeaveRequests
                 .Where(x => x.EmployeeId == employeeId && x.Status == "Approved")

@@ -3,7 +3,6 @@ using AUTHDEMO1.DTOs;
 using AUTHDEMO1.Interfaces;
 using AUTHDEMO1.Models;
 using AutoMapper;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AUTHDEMO1.Controllers
@@ -40,7 +39,6 @@ namespace AUTHDEMO1.Controllers
         [HttpPost]
         public async Task<ActionResult<DepartmentDto>> CreateDepartment(DepartmentDto departmentDto)
         {
-            // Check if department with same name already exists
             var existingDepartment = await _departmentRepository.GetByNameAsync(departmentDto.Name);
             if (existingDepartment != null)
             {
@@ -65,7 +63,7 @@ namespace AUTHDEMO1.Controllers
             {
                 return NotFound();
             }
-            // Check if new name conflicts with existing department
+      
             if (department.Name != departmentDto.Name)
             {
                 var existingDepartment = await _departmentRepository.GetByNameAsync(departmentDto.Name);

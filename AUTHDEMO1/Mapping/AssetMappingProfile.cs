@@ -2,7 +2,7 @@
 using AUTHDEMO1.DTOs;
 using AUTHDEMO1.Models;
 
-namespace AUTHDEMO1.Helpers // or use your namespace: Authdemo1.Mapping
+namespace AUTHDEMO1.Helpers 
 {
     public class MappingProfile : Profile
     {

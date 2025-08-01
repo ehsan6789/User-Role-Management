@@ -35,7 +35,7 @@ namespace AUTHDEMO1.Repositories
             await _context.SaveChangesAsync();
         }
 
-        // ✅ New method for dropdown
+ 
         public async Task<List<string>> GetCategoryNamesAsync()
         {
             return await _context.Categories

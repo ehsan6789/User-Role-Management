@@ -4,7 +4,8 @@
     {
         Present=0,
         Absent=1,
-        Leave = 2
+        Leave = 2,
+        Late = 3
     }
     public enum LeaveTypes
     {

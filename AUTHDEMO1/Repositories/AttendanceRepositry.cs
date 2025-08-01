@@ -92,7 +92,12 @@ namespace AUTHDEMO1.Repositories
             }
         public async Task<List<EmployeeAttendanceSummaryDto>> GetDailySummaryAsync(DateTime date)
         {
-            var employees = await _context.Employees.ToListAsync();
+            var employees = await _context.Employees
+                .IgnoreQueryFilters()
+                .Where(e => !e.IsDeleted)
+                .Include(e => e.Department)
+                .ToListAsync();
+
             var dateOnly = date.Date;
 
             var attendances = await _context.Attendances
@@ -115,16 +120,16 @@ namespace AUTHDEMO1.Repositories
 
                 if (attendance != null)
                 {
-                    status = "Present";
+                    status = "present";
                 }
                 else if (leave != null)
                 {
-                    status = "On Leave";
+                    status = "leave";
                     leaveType = leave.LeaveType;
                 }
                 else
                 {
-                    status = "Absent";
+                    status = "absent";
                 }
 
                 result.Add(new EmployeeAttendanceSummaryDto
@@ -132,6 +137,7 @@ namespace AUTHDEMO1.Repositories
                     Id = emp.Id,
                     Name = emp.Name,
                     Email = emp.Email,
+                    Department = emp.Department?.Name ?? "Unknown",
                     Status = status,
                     LeaveType = leaveType,
                     CheckIn = attendance?.CheckInTime,
@@ -147,6 +153,9 @@ namespace AUTHDEMO1.Repositories
 
             return result;
         }
+
+
+
         public async Task<bool> CheckInExistsAsync(int employeeId, DateTime date)
         {
             var dateOnly = date.Date;

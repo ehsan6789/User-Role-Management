@@ -1,11 +1,11 @@
-﻿using System.Net.Mail;
-using System.Net;
+﻿using System.Net;
+using System.Net.Mail;
 using AUTHDEMO1.Interfaces;
 
 namespace AUTHDEMO1.Services
 {
 
-    // In Authdemo1.Services.EmailSender.cs
+   
     public class EmailSender : ICustomEmailSender
     {
         private readonly IConfiguration _config;

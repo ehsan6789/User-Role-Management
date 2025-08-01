@@ -7,7 +7,7 @@
         public string Email { get; set; } = string.Empty;
         public string Status { get; set; } = "Absent";
         public string? LeaveType { get; set; }
-
+        public string Department { get; set; }
         public DateTime? CheckIn { get; set; }
         public DateTime? CheckOut { get; set; }
 

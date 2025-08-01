@@ -1,7 +1,6 @@
 ﻿
 using AUTHDEMO1.Helpers;
 using AUTHDEMO1.Models;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace AUTHDEMO1.Controllers

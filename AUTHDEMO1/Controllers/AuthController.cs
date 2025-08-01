@@ -44,8 +44,7 @@ namespace AUTHDEMO1.Controllers
                 return BadRequest(new { errors });
             }
 
-            // ✅ Role assignment removed:
-            // await _userManager.AddToRoleAsync(user, "User");
+      
 
             return Ok(new { message = "User registered successfully." });
         }

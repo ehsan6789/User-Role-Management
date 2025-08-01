@@ -16,7 +16,7 @@ public class TokenService
         _userManager = userManager;
     }
 
-    // ✅ Marked as async and returns Task<string>
+ 
     public async Task<string> CreateToken(ApplicationUser user)
     {
         var claims = new List<Claim>
@@ -29,7 +29,7 @@ public class TokenService
         };
 
 
-        // ✅ Await and get roles
+      
         var userRoles = await _userManager.GetRolesAsync(user);
         foreach (var role in userRoles)
         {

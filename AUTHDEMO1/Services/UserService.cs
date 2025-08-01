@@ -27,7 +27,7 @@ public class UserService : IUserService
             var roles = await _userManager.GetRolesAsync(user);
             var viewModel = _mapper.Map<UserViewModel>(user);
 
-            viewModel.Role = roles.FirstOrDefault(); // Take first role (if user has multiple)
+            viewModel.Role = roles.FirstOrDefault(); 
             userViewModels.Add(viewModel);
         }
 
@@ -46,7 +46,7 @@ public class UserService : IUserService
 
         var userDto = _mapper.Map<UserDto>(user);
 
-        // Remove role population
+     
         return userDto;
     }
 
@@ -69,7 +69,7 @@ public class UserService : IUserService
             throw new Exception($"User creation failed: {errors}");
         }
 
-        // Assign Role
+     
         if (!string.IsNullOrWhiteSpace(model.Role))
         {
             var roleExists = await _userManager.IsInRoleAsync(user, model.Role);

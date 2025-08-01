@@ -55,12 +55,12 @@ namespace AUTHDEMO1.Services
             if (existing == null)
                 throw new Exception("Asset assignment not found");
 
-            await _repository.DeleteAsync(id);  // Pass id, not entity
+            await _repository.DeleteAsync(id);  
         }
         public async Task<IEnumerable<AssetAssignmentDto>> GetByEmployeeIdAsync(int employeeId)
         {
             var assignments = await _repository
-                .GetByEmployeeIdAsync(employeeId); // <- change to _repository
+                .GetByEmployeeIdAsync(employeeId); 
 
             return _mapper.Map<IEnumerable<AssetAssignmentDto>>(assignments);
         }

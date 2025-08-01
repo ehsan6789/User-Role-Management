@@ -1,8 +1,6 @@
 ﻿using AUTHDEMO1.DTOs;
 using AUTHDEMO1.Interfaces;
-using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
-using System.Threading.Tasks;
 
 namespace AUTHDEMO1.Controllers
 {
@@ -17,8 +15,8 @@ namespace AUTHDEMO1.Controllers
             _userService = userService;
         }
 
-        //[Authorize(Roles = "Admin,SuperAdmin")]
-        
+     
+ 
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {
@@ -26,7 +24,7 @@ namespace AUTHDEMO1.Controllers
             return Ok(users);
         }
 
-        // GET: api/users/{id}
+    
         [HttpGet("{id}")]
         public async Task<IActionResult> GetByIdAsync(string id)
         {
@@ -37,7 +35,7 @@ namespace AUTHDEMO1.Controllers
             return Ok(user);
         }
 
-        // POST: api/users
+    
         [HttpPost]
         public async Task<IActionResult> CreateAsync([FromBody] CreateUserDto dto)
         {
@@ -46,7 +44,7 @@ namespace AUTHDEMO1.Controllers
             return Ok(new { Message = "User created successfully.", User = createdUser });
         }
 
-        // PUT: api/users
+  
 
         [HttpPut]
         public async Task<IActionResult> UpdateAsync([FromBody] UpdateUserDto dto)
@@ -61,7 +59,6 @@ namespace AUTHDEMO1.Controllers
             return Ok(new { Message = "User updated successfully.", User = updatedUser });
         }
 
-        // DELETE: api/users/{id}
         [HttpDelete("{id}")]
         public async Task<IActionResult> DeleteAsync(string id)
         {

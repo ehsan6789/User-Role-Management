@@ -60,20 +60,20 @@ builder.Services.ConfigureApplicationCookie(options =>
 
 #region ------------------ Dependency Injection ------------------
 
-// ✅ User Auth
+
 builder.Services.AddScoped<IUserRepository, UserRepository>();
 builder.Services.AddScoped<IUserService, UserService>();
 builder.Services.AddScoped<TokenService>();
 
-// ✅ Email
+
 builder.Services.AddScoped<ICustomEmailSender, EmailSender>();
 
-// ✅ Employee Module
+
 builder.Services.AddScoped<IEmployeeRepository, EmployeeRepository>();
 builder.Services.AddScoped<IDepartmentRepository, DepartmentRepository>();
 builder.Services.AddScoped<IBankAccountRepository, BankAccountRepository>();
 
-// ✅ Assets Module
+
 builder.Services.AddScoped<IAssetRepository, AssetRepository>();
 builder.Services.AddScoped<IAssetService, AssetService>();
 builder.Services.AddScoped<ICategoryRepository, CategoryRepository>();
@@ -83,16 +83,16 @@ builder.Services.AddScoped<IAssetAssignmentService, AssetAssignmentService>();
 builder.Services.AddScoped<IMaintenanceRecordRepository, MaintenanceRecordRepository>();
 builder.Services.AddScoped<IMaintenanceRecordService, MaintenanceRecordService>();
 
-// ✅ Attendance Module
+
 builder.Services.AddScoped<IAttendanceRepository, AttendanceRepository>();
 
-// ✅ Leave Module
+
 builder.Services.AddScoped<ILeaveRepository, LeaveRepository>();
 
-// ✅ Reports
+
 builder.Services.AddScoped<IEmployeeReportRepository, EmployeeReportRepository>();
 
-// ✅ AutoMapper
+
 builder.Services.AddAutoMapper(typeof(MappingProfile));
 
 #endregion
@@ -153,6 +153,10 @@ builder.Services.AddCors(options =>
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddScoped<IReportRepository, ReportRepository>();
+builder.Services.AddScoped<IReportService, ReportService>();
+
+
 #endregion
 
 var app = builder.Build();
@@ -163,6 +167,7 @@ using (var scope = app.Services.CreateScope())
 {
     var services = scope.ServiceProvider;
     await SeedData.InitializeAsync(services);
+
 }
 
 #endregion

@@ -2,9 +2,6 @@
 using AUTHDEMO1.Interfaces;
 using AUTHDEMO1.Models;
 using AutoMapper;
-using System;
-using System.Collections.Generic;
-using System.Threading.Tasks;
 
 namespace AUTHDEMO1.Services
 {

@@ -16,13 +16,11 @@ namespace AUTHDEMO1.Repositories
             _dbSet = context.Set<T>();
         }
 
-        // VIRTUAL keyword add kiya - IMPORTANT!
         public virtual async Task<IEnumerable<T>> GetAllAsync()
         {
             return await _dbSet.ToListAsync();
         }
 
-        // VIRTUAL keyword add kiya - IMPORTANT!
         public virtual async Task<T> GetByIdAsync(int id)
         {
             return await _dbSet.FindAsync(id);

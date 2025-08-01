@@ -11,7 +11,7 @@ namespace AUTHDEMO1.Data
             var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
             var userManager = serviceProvider.GetRequiredService<UserManager<ApplicationUser>>();
 
-            // ✅ Add all required roles
+         
             string[] roles = { "SuperAdmin", "Admin", "HR", "Accounts", "Operations" };
 
             foreach (var role in roles)
@@ -22,7 +22,6 @@ namespace AUTHDEMO1.Data
                 }
             }
 
-            // 🔁 Reset SuperAdmin
             var superAdminEmail = "superadmin@example.com";
             var existingSuperAdmin = await userManager.FindByEmailAsync(superAdminEmail);
             if (existingSuperAdmin != null)
@@ -48,7 +47,7 @@ namespace AUTHDEMO1.Data
                 await userManager.AddToRoleAsync(superAdminUser, "SuperAdmin");
             }
 
-            // 🔁 Reset Admin
+         
             var adminEmail = "admin@example.com";
             var existingAdmin = await userManager.FindByEmailAsync(adminEmail);
             if (existingAdmin != null)

@@ -5,7 +5,6 @@ using AUTHDEMO1.Interfaces;
 using AUTHDEMO1.Models;
 using AutoMapper;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.EntityFrameworkCore;
 
 namespace AUTHDEMO1.Controllers
 {
