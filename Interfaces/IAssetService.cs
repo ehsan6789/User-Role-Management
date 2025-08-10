@@ -1,4 +1,6 @@
-﻿using AUTHDEMO1.DTOs;
+using AUTHDEMO1.DTOs;
+using System.Collections.Generic;
+using System.Threading.Tasks;
 
 namespace AUTHDEMO1.Interfaces
 {
@@ -6,9 +8,9 @@ namespace AUTHDEMO1.Interfaces
     {
         Task<IEnumerable<AssetDto>> GetAllAssetsAsync();
         Task<AssetDto> GetAssetByIdAsync(int id);
-        Task AddAssetAsync(CreateAssetDto dto);
-        Task UpdateAssetAsync(UpdateAssetDto dto);
-        Task DeleteAssetAsync(int id);
+        Task<AssetDto> CreateAssetAsync(AssetForCreationDto dto);
+        Task<bool> UpdateAssetAsync(int id, AssetForUpdateDto dto);
+        Task<bool> DeleteAssetAsync(int id);
         Task<bool> SerialNumberExistsAsync(string serialNumber);
     }
 }

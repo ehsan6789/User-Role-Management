@@ -418,7 +418,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -465,30 +465,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AttendanceRepositry.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T03:59:37.861Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CategoriesController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\CategoriesController.cs",
-              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\CategoriesController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\CategoriesController.cs",
-              "RelativeToolTip": "AUTHDEMO1\\Controllers\\CategoriesController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAywD0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-16T05:04:31.876Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "AssetAssignmentsController.cs",
               "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
@@ -507,10 +483,34 @@
               "RelativeDocumentMoniker": "AUTHDEMO1\\Services\\AssetService.cs",
               "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
               "RelativeToolTip": "AUTHDEMO1\\Services\\AssetService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAABIAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAEEAAABIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T02:46:56.047Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-16T05:04:31.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AttendanceRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:59:37.861Z"
             },
             {
               "$type": "Document",

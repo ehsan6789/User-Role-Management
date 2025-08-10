@@ -418,7 +418,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
@@ -460,16 +460,32 @@
               "IsPinned": true
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AttendanceRepositry.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "AssetAssignmentsController.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-11T03:59:37.861Z",
+              "WhenOpened": "2025-07-10T00:21:17.276Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AssetService.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Services\\AssetService.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Services\\AssetService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T02:46:56.047Z",
               "EditorCaption": ""
             },
             {
@@ -486,29 +502,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AssetAssignmentsController.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
-              "RelativeDocumentMoniker": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
-              "RelativeToolTip": "AUTHDEMO1\\Controllers\\AssetAssignmentsController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwA8AAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "AttendanceRepositry.cs",
+              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeDocumentMoniker": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "RelativeToolTip": "AUTHDEMO1\\Repositories\\AttendanceRepositry.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T00:21:17.276Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AssetService.cs",
-              "DocumentMoniker": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
-              "RelativeDocumentMoniker": "AUTHDEMO1\\Services\\AssetService.cs",
-              "ToolTip": "C:\\Users\\lenovo\\Desktop\\Project1\\AUTHDEMO1\\Services\\AssetService.cs",
-              "RelativeToolTip": "AUTHDEMO1\\Services\\AssetService.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowEEAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T02:46:56.047Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-11T03:59:37.861Z"
             },
             {
               "$type": "Document",
