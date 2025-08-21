@@ -9,6 +9,12 @@
         public string EmergencyNo { get; set; }
         public string Education { get; set; }
         public string Experience { get; set; }
+        public string CNIC { get; set; }
+        public string Gender { get; set; }
+        public DateTime DateOfBirth { get; set; }
+        public string Religion { get; set; }
+        public DateTime DateOfJoining { get; set; }
+        public List<int> LeaveYears { get; set; }
         public string MaritalStatus { get; set; }
         public string Reference { get; set; }
         public int DepartmentId { get; set; }

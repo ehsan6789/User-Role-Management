@@ -12,15 +12,15 @@ namespace AUTHDEMO1.Repositories
         public EmployeeRepository(AppDbContext context) : base(context)
         {
         }
-        // YE METHOD ADD KIYA - GetAllAsync override
+   
         public override async Task<IEnumerable<Employee>> GetAllAsync()
         {
             return await _context.Employees
-                .Include(e => e.Department)  // Department include kar rahe hain
+                .Include(e => e.Department)  
                 .ToListAsync();
         }
 
-        // YE METHOD BHI ADD KIYA - GetByIdAsync override
+    
         public override async Task<Employee> GetByIdAsync(int id)
         {
             return await _context.Employees
